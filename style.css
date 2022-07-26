@@ -1,0 +1,11 @@
+.hero-bg-color {
+    background: #FFF9F4;
+}
+
+.btn-gradiant {
+    background-image: linear-gradient(0deg, #3543BC, #3D4FF3);
+}
+
+.price {
+    color: #FA804C;
+}
